@@ -1,0 +1,45 @@
+{
+  "@@locale": "en",
+
+  "settingsTitle": "Settings",
+  "@settingsTitle": {"description": "AppBar title on the Settings screen"},
+
+  "settingsSectionAppearance": "Appearance",
+  "settingsDarkMode": "Dark Mode",
+
+  "settingsSectionLanguage": "Language",
+  "settingsLanguageEnglish": "English",
+  "settingsLanguageNepali": "नेपाली",
+  "settingsLanguageSubtitle": "Choose the language used throughout the app",
+
+  "settingsSectionSecurity": "Security",
+  "settingsBiometricLogin": "Biometric Login",
+  "settingsBiometricLoginSubtitle": "Unlock Healthify with fingerprint or face",
+  "settingsBiometricUnavailable": "Biometric authentication is not available on this device. Email and password login works as normal.",
+  "settingsBiometricNotSupportedSnackbar": "Biometric authentication is not available on this device",
+
+  "settingsSectionPreferences": "Preferences",
+  "settingsScanReminders": "Scan Reminders",
+  "settingsScanRemindersSubtitle": "A daily nudge to analyze products",
+  "settingsNotificationPermissionRequired": "Notification permission is required for reminders",
+
+  "settingsSectionMembership": "Membership",
+  "settingsPremiumTitle": "Healthify Premium",
+  "settingsPremiumSubtitle": "Plans, payment, and benefits",
+
+  "settingsSectionAbout": "About",
+  "settingsAboutTagline": "AI-powered skincare ingredient analysis",
+  "settingsAboutVersion": "AI-powered skincare ingredient analysis · v{version}",
+  "@settingsAboutVersion": {
+    "description": "About row subtitle with the app version appended",
+    "placeholders": {
+      "version": {"type": "String", "example": "0.2.0+1"}
+    }
+  },
+
+  "commonSave": "Save",
+  "commonCancel": "Cancel",
+  "commonRetry": "Try Again",
+  "commonLogin": "Login",
+  "commonLogout": "Log Out"
+}

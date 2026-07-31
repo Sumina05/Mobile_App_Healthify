@@ -1,0 +1,38 @@
+{
+  "@@locale": "ne",
+
+  "settingsTitle": "सेटिङहरू",
+
+  "settingsSectionAppearance": "रूपरेखा",
+  "settingsDarkMode": "डार्क मोड",
+
+  "settingsSectionLanguage": "भाषा",
+  "settingsLanguageEnglish": "English",
+  "settingsLanguageNepali": "नेपाली",
+  "settingsLanguageSubtitle": "पूरै एपमा प्रयोग हुने भाषा छान्नुहोस्",
+
+  "settingsSectionSecurity": "सुरक्षा",
+  "settingsBiometricLogin": "बायोमेट्रिक लगइन",
+  "settingsBiometricLoginSubtitle": "फिंगरप्रिन्ट वा अनुहारद्वारा Healthify अनलक गर्नुहोस्",
+  "settingsBiometricUnavailable": "यो यन्त्रमा बायोमेट्रिक प्रमाणीकरण उपलब्ध छैन। इमेल र पासवर्डबाट लगइन सामान्य रूपमा काम गर्छ।",
+  "settingsBiometricNotSupportedSnackbar": "यो यन्त्रमा बायोमेट्रिक प्रमाणीकरण उपलब्ध छैन",
+
+  "settingsSectionPreferences": "प्राथमिकताहरू",
+  "settingsScanReminders": "स्क्यान रिमाइन्डर",
+  "settingsScanRemindersSubtitle": "उत्पादनहरू विश्लेषण गर्न दैनिक सम्झना",
+  "settingsNotificationPermissionRequired": "रिमाइन्डरका लागि सूचना अनुमति आवश्यक छ",
+
+  "settingsSectionMembership": "सदस्यता",
+  "settingsPremiumTitle": "Healthify प्रिमियम",
+  "settingsPremiumSubtitle": "योजना, भुक्तानी, र सुविधाहरू",
+
+  "settingsSectionAbout": "बारेमा",
+  "settingsAboutTagline": "AI-संचालित स्किनकेयर सामग्री विश्लेषण",
+  "settingsAboutVersion": "AI-संचालित स्किनकेयर सामग्री विश्लेषण · v{version}",
+
+  "commonSave": "सुरक्षित गर्नुहोस्",
+  "commonCancel": "रद्द गर्नुहोस्",
+  "commonRetry": "फेरि प्रयास गर्नुहोस्",
+  "commonLogin": "लगइन",
+  "commonLogout": "लगआउट"
+}
