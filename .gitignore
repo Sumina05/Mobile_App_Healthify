@@ -1,0 +1,46 @@
+# ---- Flutter / Dart (mobile/) ----
+mobile/build/
+mobile/.dart_tool/
+mobile/.flutter-plugins-dependencies
+mobile/.pub-cache/
+mobile/.pub/
+mobile/**/doc/api/
+mobile/**/ios/Flutter/.last_build_id
+mobile/app.*.symbols
+mobile/app.*.map.json
+mobile/android/app/debug
+mobile/android/app/profile
+mobile/android/app/release
+mobile/android/.gradle/
+mobile/ios/Pods/
+mobile/ios/.symlinks/
+mobile/coverage/
+*.iml
+*.ipr
+*.iws
+
+# ---- Node / Backend (backend/) ----
+backend/node_modules/
+backend/dist/
+backend/coverage/
+backend/logs/
+backend/uploads/
+backend/.env
+backend/.env.local
+backend/.env.*.local
+
+# ---- IDE ----
+.idea/
+.vscode/
+*.iml
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+*.log
+
+# ---- Misc ----
+*.class
+*.pyc
+*.swp
+.history
