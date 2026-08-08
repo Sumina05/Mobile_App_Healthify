@@ -1,4 +1,4 @@
-# Healthify Backend 🌿
+# Healthify Backend 
 
 REST API for Healthify — AI-powered skincare & cosmetic ingredient analysis.
 Node.js 22 · Express 5 · TypeScript (strict) · MongoDB/Mongoose · JWT.
